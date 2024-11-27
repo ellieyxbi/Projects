@@ -12,7 +12,7 @@ Used non-parametric tests to test for differences in one-sample, two-sample, and
 Diabetes Predictor - Python  
 Collaborated with a team to create a diabetes prediction tool. Conducted exploratory data analysis (EDA) and developed machine learning models including gradient boosting, random forest, XGBoost, neural networks, and logistic regression. Selected XGBoost as the final model for deployment. Built a local webpage to accept user inputs and predict diabetes outcomes.
 
-Predictive Modeling of Neural Acitivty in Mice - R  
+Predictive Modeling of Neural Activity in Mice - R  
 Used the Steinmetz dataset on neural activity to explore the relationship between neural firing patterns and decision-making success in mice. Conducted EDA, data integration, and predictive modeling with machine learning algorithms. Focused on time bins of neural activity to identify those most informative for predicting decision outcomes, emphasizing their importance during the decision phase.
 
 Asteroids Predictor - Python  
